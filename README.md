@@ -1,4 +1,4 @@
 # Demo
 First public repo.
 <br>
-Author - Girish Deshmukh
+Author - Girish Ashokrao Deshmukh
